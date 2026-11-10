@@ -1,0 +1,37 @@
+comandos git:
+
+git config --global user.diego = crea mi usuario
+
+git config --global user.email vaultecc@gmail.com = mi gmail
+
+git clone https://www.github.com/vaultecc/Formulario.git = clona el repositorio
+
+git init = crea un repositorio de git en la carpeta
+
+git config --list = vemos nuestros datos
+
+git remote -v = vemos si tiene un repositorio remoto
+
+git config --global core.editor code -- = dice el editor que vamos a usar por defecto
+
+git clone = clonamos un repositorio
+
+git add : lleva el paquete al aréa de preparación
+
+git commit -m("descripción") = preparar el/los archivos para ser subidos
+
+git push: sube el commit a la nube
+
+git pull = trae todos los archivos que no tengamos en el equipo
+
+git config --global init.defaultBranch main = establece main como nombre predeterminado de las ramas
+
+git config --global init.defaultBranch = consulta el nombre configurado para la rama inicial
+
+git remote add origin (URL) = Añade un repositorio remoto y le asigna el nombre origin
+
+git remote set-url origin (URL) = Cambia la dirección del repositorio remoto origin.
+
+git remote remove origin = Elimina la conexión con el remoto llamado origin.
+
+git fetch origin = Descargar información del repositorio remoto.

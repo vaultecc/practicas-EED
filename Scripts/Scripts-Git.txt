@@ -1,9 +1,0 @@
-comandos git:
-
-git config --global user.name diego = crea mi usuario
-
-git config --global user.email vaultecc@gmail.com = mi gmail
-
-git clone  git clone htthttps://www.github.com/vaultecc/Formulario.git = clona el repositorio
-
-git init = crea un repositorio de git en la carpeta
